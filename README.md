@@ -1,1 +1,3 @@
-# This is a repo for my new GCP DevOps project
+# Dodcker flask application
+ - This application is written in pythin
+ - It shall be deployed on GKE
